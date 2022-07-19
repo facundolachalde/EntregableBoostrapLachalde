@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+nav{
+    width: 100%;
+}
+h1{
+    text-align: center;
+    margin-top: 1em;
+}
+
+
+
+
+
+
+
+
+.container-fluid-f{
+    text-align: center;
+}
+footer{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    padding: 2rem 8%;
+    background-color: #dc3545;
+    display: flex;
+    align-items: center;
+}
+.copyright{
+    color: #f2f2f2;
+    opacity: 0.3;
+    text-align: center;
+}
